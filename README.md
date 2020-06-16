@@ -12,10 +12,6 @@ Space Invaders consists of a fixed shooter in which the player controls a laser 
 
 The structure of the game features a lot of object oriented programming in order to implement an efficient design. This game is developed using varying game states which constantly update in real time. The three game states consist of the menu state, play state, and game over state which are all extensions of the state class. The menu state is initialy loaded, and waits on user input to then initialize the play state. When the play state is loaded the game is started, and the player can then play. The play state does all the work to make this game function. It contains various objects for all of the sprites within the game, and performs a lot of the general logic regarding sprite interactions. After the player loses, the game over state is loaded which displays their score and gives them an option to play again.
 
-<p align="center">
-  <img src="https://i.imgur.com/wEW4u5I.png" width="627" height="214">
-</p>
-
 <b>Game States:</b>
 * Menu State - Loaded up upon application start.
 * Play State - Loaded up when game is started. 
@@ -31,17 +27,6 @@ The structure of the game features a lot of object oriented programming in order
 * Ship - UFO flying above enemies.
 * Lives - Player's lives count.
 * Score - Player's score.
-
-<b>Sprite Objects:</b>
-* Player - The cannon controlled by the player, 1 instance in `PlayState.java`
-* Enemy - Individual enemy controlled by the computer, 5 instances in `EnemyGroup.java`
-* EnemyGroup - Group of 5 enemies controlled by the computer, 11 instances in `PlayState.java`
-* Block - Individual bunker block protecting the player, 14 instances in `BlockGroup.java`
-* BlockGroup - Group of 14 bunker blocks forming a complete bunker, 4 instances in `PlayState.java`
-* Laser - Laser fired by either player or enemy, 1 instance in `Player.java`, time-dependent number of instances in `Enemy.java`
-* Ship - UFO flying above enemies, 1 instance in `PlayState.java`
-* Lives - Player's lives count, 1 instance in `PlayState.java`
-* Score - Player's score, 1 instance in `PlayState.java`, 1 instance in `GameOverState.java`
 
 ## Gameplay:
 
