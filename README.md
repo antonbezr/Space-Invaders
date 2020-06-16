@@ -14,7 +14,7 @@ The structure of the game features a lot of object oriented programming in order
 
 <b>Game States:</b>
 * Menu State - Loaded up upon application start.
-* Play State - Loaded up when game is started. 
+* Play State - Loaded up when game begins. 
 * Game Over State - Loaded up when game ends.
 
 <b>Sprite Objects:</b>
