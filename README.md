@@ -17,20 +17,20 @@ The structure of the game features a lot of object oriented programming in order
 </p>
 
 <b>Game States:</b>
-* Menu State
-* Play State
-* Game Over State
+* Menu State - Loaded up upon game start.
+* Play State - Loaded up when game is started. 
+* Game Over State - Loaded up when game ends.
 
 <b>Sprite Objects:</b>
-* Player - The cannon controlled by the player
-* Enemy - Individual enemy controlled by the computer
-* EnemyGroup - Group of 5 enemies controlled by the computer
-* Block - Individual bunker block protecting the player
-* BlockGroup - Group of 14 bunker blocks forming a complete bunker
-* Laser - Laser fired by either player or enemy
-* Ship - UFO flying above enemies
-* Lives - Player's lives count
-* Score - Player's score
+* Player - The cannon controlled by the player.
+* Enemy - Individual enemy controlled by the computer.
+* EnemyGroup - Group of 5 enemies controlled by the computer.
+* Block - Individual bunker block protecting the player.
+* BlockGroup - Group of 14 bunker blocks forming a complete bunker.
+* Laser - Laser fired by either player or enemy.
+* Ship - UFO flying above enemies.
+* Lives - Player's lives count.
+* Score - Player's score.
 
 <b>Sprite Objects:</b>
 * Player - The cannon controlled by the player, 1 instance in `PlayState.java`
@@ -42,8 +42,6 @@ The structure of the game features a lot of object oriented programming in order
 * Ship - UFO flying above enemies, 1 instance in `PlayState.java`
 * Lives - Player's lives count, 1 instance in `PlayState.java`
 * Score - Player's score, 1 instance in `PlayState.java`, 1 instance in `GameOverState.java`
-
-
 
 ## Gameplay:
 
