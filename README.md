@@ -17,7 +17,7 @@ The structure of the game features a lot of object oriented programming in order
 </p>
 
 <b>Game States:</b>
-* Menu State - Loaded up upon game start.
+* Menu State - Loaded up upon application start.
 * Play State - Loaded up when game is started. 
 * Game Over State - Loaded up when game ends.
 
