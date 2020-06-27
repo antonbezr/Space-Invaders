@@ -36,9 +36,6 @@ The structure of the game features a lot of object oriented programming in order
 
 <p align="center">
   <img src="https://i.imgur.com/q7lmhSU.jpg" width="384" height="384">
-</p>
-
-<p align="center">
   <img src="https://i.imgur.com/TNpaDxA.jpg" width="384" height="384">
 </p>
 
