@@ -12,11 +12,6 @@ Space Invaders consists of a fixed shooter in which the player controls a laser 
 
 The structure of the game features a lot of object oriented programming in order to implement an efficient design. This game is developed using varying game states which constantly update in real time. The three game states consist of the menu state, play state, and game over state which are all extensions of the state class. The menu state is initialy loaded, and waits on user input to then initialize the play state. When the play state is loaded the game is started, and the player can then play. The play state does all the work to make this game function. It contains various objects for all of the sprites within the game, and performs a lot of the general logic regarding sprite interactions. After the player loses, the game over state is loaded which displays their score and gives them an option to play again.
 
-<b>Game States:</b>
-* Menu State - Loaded up upon application start.
-* Play State - Loaded up when game begins. 
-* Game Over State - Loaded up when game ends.
-
 <b>Sprite Objects:</b>
 * Player - The cannon controlled by the player.
 * Enemy - Individual enemy controlled by the computer.
