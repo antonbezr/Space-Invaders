@@ -26,7 +26,7 @@ The structure of the game features a lot of object oriented programming in order
 ## Gameplay:
 
 <p align="center">
-    <em>A demo of gameplay can be viewed here: </em>https://youtu.be/759O_8KQbbY </em>
+    A demo of gameplay can be viewed here: </em>https://youtu.be/759O_8KQbbY
 </p>
 
 <p align="center">
