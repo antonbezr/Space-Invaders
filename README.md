@@ -30,11 +30,11 @@ The structure of the game features a lot of object oriented programming in order
 </p>
 
 <p align="center">
-  <img src="https://i.imgur.com/q7lmhSU.jpg" width="384" height="384">
-  <img src="https://i.imgur.com/TNpaDxA.jpg" width="384" height="384">
+  <img src="https://i.imgur.com/q7lmhSU.jpg" width="45%" height="45%">
+  <img src="https://i.imgur.com/TNpaDxA.jpg" width="45%" height="45%">
 </p>
 
 <p align="center">
-  <img src="https://i.imgur.com/o9DjaaD.jpg" width="384" height="384">
-  <img src="https://i.imgur.com/9428r2F.jpg" width="384" height="384">
+  <img src="https://i.imgur.com/o9DjaaD.jpg" width="45%" height="45%">
+  <img src="https://i.imgur.com/9428r2F.jpg" width="45%" height="45%">
 </p>
